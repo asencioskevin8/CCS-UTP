@@ -1,2 +1,2 @@
-# CCS-UTP
-Repositorio sobre avances del curso CCS-UTP
+# CSS-UTP
+Repositorio sobre avances del curso CSS-UTP
